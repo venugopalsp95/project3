@@ -1,0 +1,17 @@
+textarea {
+    min-height: 400px;
+}
+.mailread { 
+    background-color: rgb(209, 209, 209);
+    
+}
+.mailunread {
+    background-color: white;
+    
+}
+.mailread, .mailunread {
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 3px;
+}
